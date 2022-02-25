@@ -1,0 +1,8 @@
+main: ghozkiu.minefectedspawn.MineFectedSpawn
+version: 1.0.0
+name: MineFectedSpawn
+
+
+commands:
+  mfspawn:
+    description: test
