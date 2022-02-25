@@ -25,3 +25,10 @@ It's a Minecraft plugin that lets you create some spawn points in the world and 
   spawnpoint-already-exists: '&a<SPName> &cya existe, intenta con otro nombre.'
   spawnpoint-no-permission: '&cNo cuentas con los permisos necesarios para despertar.'
 ```
+
+# Permissions
+``` YAML
+Permissions:
+  spawnpoint-user: mfspawn.user
+  spawnpoint-staff: mfspawn.staff
+```
